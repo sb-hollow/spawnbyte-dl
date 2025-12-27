@@ -13,9 +13,11 @@ A modern, dark-themed YouTube downloader with a sleek web interface. Download vi
 - **Modern Dark UI** - Clean, intuitive interface
 - **Portable Build** - Self-contained Windows executable (no installation required)
 
-## Screenshots
+## Screenshot
 
-*Coming soon*
+<p align="center">
+  <img src="spawnbyte-dl.png" alt="SpawnByte DL Screenshot" width="700">
+</p>
 
 ## Quick Start
 
