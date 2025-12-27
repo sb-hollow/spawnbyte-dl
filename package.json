@@ -1,0 +1,24 @@
+{
+  "name": "spawnbyte-dl",
+  "version": "1.0.0",
+  "description": "Modern YouTube video and audio downloader with quality selection and time trimming",
+  "main": "server.js",
+  "bin": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "pkg . --target node18-win-x64 --output dist/SpawnByteDL.exe"
+  },
+  "pkg": {
+    "assets": [],
+    "targets": ["node18-win-x64"]
+  },
+  "keywords": ["youtube", "downloader", "video", "audio", "yt-dlp"],
+  "author": "SpawnByte LLC",
+  "license": "CC-BY-NC-4.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "uuid": "^9.0.0"
+  }
+}
