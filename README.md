@@ -74,4 +74,4 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Made with love by [SpawnByte LLC](https://spawnbyte.com)
+Made with love by SpawnByte LLC
