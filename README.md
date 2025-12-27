@@ -35,7 +35,7 @@ A modern, dark-themed YouTube downloader with a sleek web interface. Download vi
 
 ```bash
 # Clone the repository
-git clone https://github.com/spawnbyte/spawnbyte-dl.git
+git clone https://github.com/sb-hollow/spawnbyte-dl.git
 cd spawnbyte-dl
 
 # Install dependencies
